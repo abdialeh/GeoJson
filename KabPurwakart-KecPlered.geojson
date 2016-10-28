@@ -6,9 +6,10 @@
       "properties": {
         "stroke": "#81e993",
         "stroke-width": 2,
-        "stroke-opacity": 1,
+        "stroke-opacity": 2,
         "fill": "#38e052",
-        "fill-opacity": 0.5
+        "fill-opacity": 0.3,
+        "info": "Batas Wilayah Kec. Plered"
       },
       "geometry": {
         "type": "Polygon",
